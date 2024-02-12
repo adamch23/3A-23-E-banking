@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f4b031b-97a7-4540-b845-ef8a150d66f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/Afficheruser.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/Ajouteruser.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/controllers/Afficheruser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/controllers/Ajouteruser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/models/compte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/models/user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/services/IService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/services/compteservice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/services/userservice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/test/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/utils/MyConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/utils/MyDatabase$getInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tn/group6/group6/utils/MyDatabase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cAuzP8OCnsPG7AzwP6OFxUCN0w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "gestion__utilisateur",
+    "last_opened_file_path": "C:/Users/Mega-PC/Desktop/adam/group6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mega-PC\Desktop\adam\group6\src\main\resources\tn\group6\group6" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4b031b-97a7-4540-b845-ef8a150d66f8" name="Changes" comment="" />
+      <created>1707566971404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707566971404</updated>
+      <workItem from="1707566972437" duration="19724000" />
+      <workItem from="1707600268329" duration="6643000" />
+      <workItem from="1707607197063" duration="70000" />
+      <workItem from="1707607462026" duration="750000" />
+      <workItem from="1707648117749" duration="4500000" />
+      <workItem from="1707674745485" duration="1855000" />
+      <workItem from="1707679247479" duration="1772000" />
+      <workItem from="1707732526449" duration="1346000" />
+      <workItem from="1707746424273" duration="5000" />
+      <workItem from="1707748584042" duration="1043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
